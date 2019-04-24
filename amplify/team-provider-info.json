@@ -1,0 +1,14 @@
+{
+    "enviro": {
+        "awscloudformation": {
+            "AuthRoleName": "reactweb-20190304022533-authRole",
+            "UnauthRoleArn": "arn:aws:iam::148592207649:role/reactweb-20190304022533-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::148592207649:role/reactweb-20190304022533-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "reactweb-20190304022533-deployment",
+            "UnauthRoleName": "reactweb-20190304022533-unauthRole",
+            "StackName": "reactweb-20190304022533",
+            "StackId": "arn:aws:cloudformation:us-west-2:148592207649:stack/reactweb-20190304022533/ce238a20-3e67-11e9-af64-0a2e61a02d9e"
+        }
+    }
+}
